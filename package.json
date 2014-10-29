@@ -1,0 +1,21 @@
+{
+    "name": "degenerate",
+    "version": "0.1.0",
+    "description": "Generator-based asynchronous control flow for Node.js.",
+    "author": "coopersemantics",
+    "homepage": "https://github.com/coopersemantics/degenerate",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coopersemantics/degenerate"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/coopersemantics/degenerate/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "main": "./lib/degenerate.js",
+    "devDependencies": {
+        "q": "^1.0.1"
+    }
+}
